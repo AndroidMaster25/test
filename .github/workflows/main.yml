@@ -4,7 +4,7 @@ on:
 jobs:
   build:
     name: Mac
-    runs-on: macos-13
+    runs-on: macos-15-intel
     
     steps:                 
     - name: step 1
